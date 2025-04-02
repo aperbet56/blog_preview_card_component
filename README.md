@@ -14,7 +14,7 @@ Les utilisateurs doivent pouvoir :
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/blog_preview_card_component/
 
 ## Projet développé avec
 
