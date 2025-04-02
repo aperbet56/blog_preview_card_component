@@ -1,5 +1,7 @@
 ## FRONTEND MENTOR | BLOG PREVIEW CARD COMPONENT
 
+![Design preview for the blog preview card component challenge](./design/desktop-preview.jpg)
+
 ## Le challenge
 
 Voici ma solution au défi « blog preview card component » sur Frontend Mentor. Les défis Frontend Mentor vous aident à améliorer vos compétences en codage en créant des projets réalistes.
