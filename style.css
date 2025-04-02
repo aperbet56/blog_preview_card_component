@@ -118,3 +118,11 @@ body {
     border-radius: 50%;
     margin-right: 15px;
 }
+
+/**** Responsive design version desktop ****/
+
+@media screen and (min-width: 1024px) {
+    .card {
+        width: 30%;
+    }
+}
