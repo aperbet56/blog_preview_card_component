@@ -1,6 +1,6 @@
 ## FRONTEND MENTOR | BLOG PREVIEW CARD COMPONENT
 
-(./design/preview.jpg)
+![Design preview for the blog preview card component coding challenge](./design/preview.jpg)
 
 ## Le challenge
 
